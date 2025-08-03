@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://b0uo623fc6w07"]
 
 [ext_resource type="Script" uid="uid://dngr2tvqmk6ap" path="res://scripts/car.gd" id="1_qt2eu"]
-[ext_resource type="Texture2D" uid="uid://cqfd0mae2kcbq" path="res://Assets/Racing_AssetPack - Copy.png" id="2_50v30"]
+[ext_resource type="Texture2D" uid="uid://cqfd0mae2kcbq" path="res://assets/Racing_AssetPack - Copy.png" id="2_50v30"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_jtldb"]
 atlas = ExtResource("2_50v30")
